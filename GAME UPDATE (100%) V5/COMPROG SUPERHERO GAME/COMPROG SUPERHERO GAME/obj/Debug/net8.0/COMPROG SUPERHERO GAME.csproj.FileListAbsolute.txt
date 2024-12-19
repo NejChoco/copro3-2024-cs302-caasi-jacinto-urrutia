@@ -1,0 +1,242 @@
+C:\Users\JensenChoco\Desktop\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\COMPROG SUPERHERO GAME.exe
+C:\Users\JensenChoco\Desktop\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\COMPROG SUPERHERO GAME.deps.json
+C:\Users\JensenChoco\Desktop\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\COMPROG SUPERHERO GAME.runtimeconfig.json
+C:\Users\JensenChoco\Desktop\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\COMPROG SUPERHERO GAME.dll
+C:\Users\JensenChoco\Desktop\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\COMPROG SUPERHERO GAME.pdb
+C:\Users\JensenChoco\Desktop\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JensenChoco\Desktop\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.AssemblyInfoInputs.cache
+C:\Users\JensenChoco\Desktop\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.AssemblyInfo.cs
+C:\Users\JensenChoco\Desktop\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.csproj.CoreCompileInputs.cache
+C:\Users\JensenChoco\Desktop\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.dll
+C:\Users\JensenChoco\Desktop\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\refint\COMPROG SUPERHERO GAME.dll
+C:\Users\JensenChoco\Desktop\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.pdb
+C:\Users\JensenChoco\Desktop\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.genruntimeconfig.cache
+C:\Users\JensenChoco\Desktop\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\ref\COMPROG SUPERHERO GAME.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\COMPROG SUPERHERO GAME.exe
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\COMPROG SUPERHERO GAME.deps.json
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\COMPROG SUPERHERO GAME.runtimeconfig.json
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\COMPROG SUPERHERO GAME.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\COMPROG SUPERHERO GAME.pdb
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.AssemblyInfoInputs.cache
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.AssemblyInfo.cs
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.csproj.CoreCompileInputs.cache
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.sourcelink.json
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\refint\COMPROG SUPERHERO GAME.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.pdb
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.genruntimeconfig.cache
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\ref\COMPROG SUPERHERO GAME.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.csproj.AssemblyReference.cache
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (33%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG .68870342.Up2Date
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\COMPROG SUPERHERO GAME.exe
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\COMPROG SUPERHERO GAME.deps.json
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\COMPROG SUPERHERO GAME.runtimeconfig.json
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\COMPROG SUPERHERO GAME.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\COMPROG SUPERHERO GAME.pdb
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.csproj.AssemblyReference.cache
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.AssemblyInfoInputs.cache
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.AssemblyInfo.cs
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.csproj.CoreCompileInputs.cache
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.sourcelink.json
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG .68870342.Up2Date
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\refint\COMPROG SUPERHERO GAME.dll
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.pdb
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.genruntimeconfig.cache
+C:\Users\ficti\OneDrive\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Caasi_Justin\super\GAME UPDATE (67%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\ref\COMPROG SUPERHERO GAME.dll
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\COMPROG SUPERHERO GAME.exe
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\COMPROG SUPERHERO GAME.deps.json
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\COMPROG SUPERHERO GAME.runtimeconfig.json
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\COMPROG SUPERHERO GAME.dll
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\COMPROG SUPERHERO GAME.pdb
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.csproj.AssemblyReference.cache
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.AssemblyInfoInputs.cache
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.AssemblyInfo.cs
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.csproj.CoreCompileInputs.cache
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.sourcelink.json
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG .68870342.Up2Date
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.dll
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\refint\COMPROG SUPERHERO GAME.dll
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.pdb
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.genruntimeconfig.cache
+C:\Users\JensenChoco\Desktop\COMPROG 3 FINALS SYSTEM\Superhero-Game\GAME UPDATE (100%)\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\ref\COMPROG SUPERHERO GAME.dll
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\COMPROG SUPERHERO GAME.exe
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\COMPROG SUPERHERO GAME.deps.json
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\COMPROG SUPERHERO GAME.runtimeconfig.json
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\COMPROG SUPERHERO GAME.dll
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\COMPROG SUPERHERO GAME.pdb
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.csproj.AssemblyReference.cache
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.AssemblyInfoInputs.cache
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.AssemblyInfo.cs
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.csproj.CoreCompileInputs.cache
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.sourcelink.json
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG .68870342.Up2Date
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.dll
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\refint\COMPROG SUPERHERO GAME.dll
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.pdb
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.genruntimeconfig.cache
+C:\Users\ficti\OneDrive\Desktop\superhero\GAME UPDATE (100%) V2\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\ref\COMPROG SUPERHERO GAME.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.csproj.AssemblyReference.cache
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.AssemblyInfoInputs.cache
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.AssemblyInfo.cs
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.csproj.CoreCompileInputs.cache
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.sourcelink.json
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\refint\COMPROG SUPERHERO GAME.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.pdb
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\COMPROG SUPERHERO GAME.exe
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\COMPROG SUPERHERO GAME.deps.json
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\COMPROG SUPERHERO GAME.runtimeconfig.json
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\COMPROG SUPERHERO GAME.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\COMPROG SUPERHERO GAME.pdb
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG .68870342.Up2Date
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.genruntimeconfig.cache
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V4\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\ref\COMPROG SUPERHERO GAME.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\COMPROG SUPERHERO GAME.exe
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\COMPROG SUPERHERO GAME.deps.json
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\COMPROG SUPERHERO GAME.runtimeconfig.json
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\COMPROG SUPERHERO GAME.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\COMPROG SUPERHERO GAME.pdb
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.csproj.AssemblyReference.cache
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.AssemblyInfoInputs.cache
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.AssemblyInfo.cs
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.csproj.CoreCompileInputs.cache
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.sourcelink.json
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG .68870342.Up2Date
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\refint\COMPROG SUPERHERO GAME.dll
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.pdb
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\COMPROG SUPERHERO GAME.genruntimeconfig.cache
+C:\Users\JensenChoco\Desktop\V4\Superhero-Game\GAME UPDATE (100%) V5\COMPROG SUPERHERO GAME\COMPROG SUPERHERO GAME\obj\Debug\net8.0\ref\COMPROG SUPERHERO GAME.dll
